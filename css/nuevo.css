@@ -36,8 +36,8 @@ header{
 #lup {
     
     position: relative;
-    left: 1041px;
-    top: -66px;
+    left: 872px;
+    bottom: 39px;
     z-index: 3;
     color: #ccc;
 }
@@ -269,7 +269,5 @@ p{
     top: 10px;
 
 }
-
-
 
 
